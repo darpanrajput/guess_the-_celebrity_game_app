@@ -1,4 +1,4 @@
-# guess_the-_celebrity_game_app
+# guess_the_celebrity_game_app_in_android
 the guess the celebrity app that uses web scraping to fetch the data from the sites and show the data in the app .it uses jsoup lib for fetching html data from website
 
 
